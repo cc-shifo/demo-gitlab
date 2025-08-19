@@ -26,7 +26,7 @@ git push origin v1.0.0-test.2
 
 # 将000-test-branch.txt改成002-test-branch.txt模拟修改bug
 git add 002-test-branch.txt
-git commit -m "rlease/test-v1.0.0 branch fix bug 202508191617"
+git commit -m "rlease/test-v1.0.0 branch fix bug 202508191718"
 git push origin rlease/test-v1.0.0
 
 # 提交tag
